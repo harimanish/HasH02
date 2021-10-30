@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HasH2002
+- 👋 Hi, I’m @Manish
 - 👀 I’m interested in ...devlopment
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...
